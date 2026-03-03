@@ -39,32 +39,32 @@ Manage System Data
 📂 Project Structure
 UBER/
 │
-├── admin/
-│   ├── admin_dashboard.php
-│   ├── admin_login.php
-│   ├── admin_logout.php
-│   ├── delete.php
-│   ├── rides.php
-│   ├── update.php
-│   ├── userlist.php
+├── 📁 admin/
+│ ├── admin_dashboard.php
+│ ├── admin_login.php
+│ ├── admin_logout.php
+│ ├── delete.php
+│ ├── rides.php
+│ ├── update.php
+│ └── userlist.php
 │
-├── public/
-│   ├── images/
-│   ├── commonfiles.php
+├── 📁 user/
+│ ├── aboutus.php
+│ ├── bookride.php
+│ ├── dashboard.php
+│ ├── help.php
+│ ├── login.php
+│ ├── logout.php
+│ ├── signup.php
+│ └── uber_business.php
 │
-├── user/
-│   ├── aboutus.php
-│   ├── bookride.php
-│   ├── dashboard.php
-│   ├── help.php
-│   ├── login.php
-│   ├── logout.php
-│   ├── signup.php
-│   ├── uber_business.php
+├── 📁 public/
+│ ├── 📁 images/
+│ └── commonfiles.php
 │
 ├── dp.php
-├── index.php
 ├── lang.php
+├── index.php
 └── README.md
 
 🖥️ Installation Guide
