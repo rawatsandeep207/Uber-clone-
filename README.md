@@ -131,6 +131,4 @@ Full Stack PHP Developer
 🔗 GitHub Profile:
 👉 https://github.com/rawatsandeep207
 
-If you like this project, ⭐ star the repository and feel free to fork it!
-
 💎 Now Your README Looks Like a Professional Developer Profile
