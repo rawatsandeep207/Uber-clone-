@@ -1,5 +1,4 @@
 <?php
-include 'lang.php';
 include './public/commonfiles.php';
 ?>
 <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined" rel="stylesheet" />
@@ -254,21 +253,6 @@ include './public/commonfiles.php';
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
 
             <ul class="navbar-nav ms-auto align-items-center">
-
-                <!-- Language -->
-                <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle text-white"
-                        href="#"
-                        id="languageDropdown"
-                        role="button"
-                        data-bs-toggle="dropdown">
-                        🌐 Language
-                    </a>
-                    <ul class="dropdown-menu dropdown-menu-end">
-                        <li><a class="dropdown-item" href="?lang=en">English</a></li>
-                        <li><a class="dropdown-item" href="?lang=hi">Hindi</a></li>
-                    </ul>
-                </li>
 
                 <li class="nav-item">
                     <a class="nav-link text-white" href="help.php">Help</a>
