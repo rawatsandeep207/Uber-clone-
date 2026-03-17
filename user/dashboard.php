@@ -275,21 +275,7 @@ include '../public/commonfiles.php';
                     <a class="nav-link text-white" href="uber_business.php">Business</a>
                 </li>
 
-                <!-- Language -->
-                <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle text-white"
-                        href="#"
-                        id="languageDropdown"
-                        role="button"
-                        data-bs-toggle="dropdown">
-                        🌐 Language
-                    </a>
-                    <ul class="dropdown-menu dropdown-menu-end">
-                        <li><a class="dropdown-item" href="?lang=en">English</a></li>
-                        <li><a class="dropdown-item" href="?lang=hi">Hindi</a></li>
-                    </ul>
-                </li>
-
+                
                 <li class="nav-item">
                     <a class="nav-link text-white" href="help.php">Help</a>
                 </li>
